@@ -1,5 +1,5 @@
 # iphomeTV
-# This is Personal Free List of channels for me and My friends :-)
+## This is Personal Free List of channels for me and my friends :-)
 
 F_homeList_US_UK_CHZ_AU_2019.m3u
 
